@@ -15,7 +15,7 @@ $custo = 200.8;
 
 $numero = (double)$varNum;
 $total = $custo * $numero;
-echo $total;
+echo "$total \n";
 
 
 

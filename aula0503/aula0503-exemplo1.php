@@ -8,3 +8,4 @@ function exibeDados(){
 }
 
 exibeDados();
+echo "\n";
