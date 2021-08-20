@@ -1,5 +1,5 @@
 <?php
-include_once "opiniao.php";
+include "opiniao.php";
 //Criar uma variável objeto que representa uma opinião (haha opinião sincera.)
 $opiniaoSincera = new Opiniao;
 //Vamos receber aqui os dados que vem do formulário
